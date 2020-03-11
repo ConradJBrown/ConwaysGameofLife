@@ -14,5 +14,11 @@
 		Any dead cell with three live neighbors becomes a live cell.
 		All other live cells die in the next generation. Similarly, all other dead cells stay dead.
 ## Example Input for Random
+![Example Input](/Images/Example.png)
+
+[![Example Random](/Images/ExampleGif.gif)
 
 ## Example Input for Glider Gun
+![Example Input Glider](/Images/ExampleG.png)
+
+![Example Glider](/Images/ExampleGlider.gif)
